@@ -1,0 +1,5 @@
+
+GenCannotDoRep3.hs:8:31:
+    Cannot derive well-kinded instance of form `Generic1 (Simple ...)'
+      Class `Generic1' expects an argument of kind `* -> *'
+    In the data type declaration for `Simple'
